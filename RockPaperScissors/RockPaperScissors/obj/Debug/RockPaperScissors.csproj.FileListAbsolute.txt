@@ -1,0 +1,6 @@
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/obj/Debug/RockPaperScissors.csprojAssemblyReference.cache
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/obj/Debug/RockPaperScissors.csproj.CoreCompileInputs.cache
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.pdb
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/obj/Debug/RockPaperScissors.exe
+/afs/cri.epita.net/user/m/mo/mohd-israt-ahmed.shopnil/u/RockPaperScissors/RockPaperScissors/obj/Debug/RockPaperScissors.pdb
